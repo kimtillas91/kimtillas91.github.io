@@ -1,2 +1,3 @@
 # kimtillas91.github.io
-KimTomCan website
+
+Wala pa, mga beshie. Wait lang po.

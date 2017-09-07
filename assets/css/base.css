@@ -9,13 +9,21 @@ div {
 div#logo {
     height: 480px;
     width: 480px;
-    background-image: url(assets/img/logo-kim-02.svg);
+    background-image: url("assets/img/logo-kim-02.svg");
     background-repeat: no-repeat;
     margin-left: auto;
     margin-right: auto;
     margin-top: 8%;
 }
 
+div.info {
+    text-align: center;
+}
+
 div.announcement {
     font-size: 4em;
+}
+
+div.sns {
+     margin: 0.6em;
 }

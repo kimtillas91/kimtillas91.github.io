@@ -6,7 +6,7 @@ div {
     display: block;
 }
 
-div #logo {
+div#logo {
     height: 480px;
     width: 480px;
     background-image: url(assets/img/logo-kim-02.svg);
@@ -16,6 +16,6 @@ div #logo {
     margin-top: 8%;
 }
 
-div .announcement {
+div.announcement {
     font-size: 44m;
 }

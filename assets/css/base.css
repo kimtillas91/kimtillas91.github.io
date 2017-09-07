@@ -54,7 +54,7 @@ a:visited {
 }
 
 
-@media only screen and (max-width: 768px) and (orientation: portrait) {
+@media only screen and (max-device-width: 768px) and (orientation: portrait) {
 
    body { 
       font-size: 3em; 

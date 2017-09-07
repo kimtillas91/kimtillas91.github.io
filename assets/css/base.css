@@ -38,3 +38,15 @@ div.sns {
 span.bullet {
     margin-right: 0.7em;
 }
+
+a {
+    color: #C62828;
+}
+
+a:hover {
+    background-color: #0D1A21;
+}
+
+a:visited {
+    color: #C62828;
+}

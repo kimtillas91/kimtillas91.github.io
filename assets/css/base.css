@@ -24,6 +24,17 @@ div.announcement {
     font-size: 4em;
 }
 
+div.sns-list {
+    width: 14em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 div.sns {
-     margin: 0.6em;
+    margin: 0.6em;
+    text-align: left;
+}
+
+span.bullet {
+    margin-right: 0.7em;
 }

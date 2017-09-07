@@ -1,7 +1,21 @@
 body {
-    font-family: Bookman;
+    font-family: 'Roboto Slab', serif;
 }
 
-#logo {
-    background-image: url('assets/img/logo-kim-02.svg');
+div {
+    display: block;
+}
+
+div #logo {
+    height: 480px;
+    width: 480px;
+    background-image: url(assets/img/logo-kim-02.svg);
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+}
+
+div .announcement {
+    font-size: 44m;
 }

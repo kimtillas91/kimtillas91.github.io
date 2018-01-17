@@ -1,0 +1,47 @@
+title: KimTomCan Portfolio and Blog
+email: kimberly.cantillas@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Online portfolio of Kim Tom. Web development, web design, graphic design.
+permalink: '/blog/:title/'
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+blogbaseurl: "/blog"
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Kim Tom # add your name
+author-pic: adam-face.jpg
+about-author: 
+
+# Contact links
+email: kimberly.cantillas@gmail.com # Add your Email address
+phone: # Add your Phone number
+website: kimtomcan.xyz # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+github: kimtillas91 # Add your Github handle
+twitter: '@kimtomcan' # Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: kimtomshoots # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: # Add your discus identifier
+
+# Tracker
+analytics: UA-106591321-1 # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

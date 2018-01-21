@@ -1,37 +1,58 @@
 body {
-  font-family: 'Roboto', sans-serif;;
+  font: 400 1em 'Roboto', sans-serif;;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
   font-kerning: normal;
+  margin: 0px;
 }
+
+.wrapper {
+  margin:auto;
+  width: 960px;
+}
+
 
 .heavy-text {
   font: 800 2.4em 'Montserrat', sans-serif;
 }
-
+h1 {
+  font: 700 2.2em 'Roboto', sans-serif;
+}
+h2 {
+  font: 700 1.8em 'Roboto', sans-serif;
+}
+h3 {
+  font: 500 1.4em 'Roboto', sans-serif;
+}
+h4 {
+  font: 700 1.1em 'Roboto', sans-serif;
+}
 
 a {
-    color: #C62828;
-    text-decoration: none;
+  color: #C62828;
+  text-decoration: none;
 }
-
 a:hover {
-    color: #C62828;
-    /**background-color: #0D1A21;**/
+  color: #C62828;
+  /**background-color: #0D1A21;**/
 }
-
 a:visited {
-    color: #C62828;
+  color: #C62828;
 }
 
+.datestamp {
+  color: #727272;
+  font-size: 14px;
+  margin-bottom: 36px;
+}
 
 /**
  * Header
  */
-footer, .header-wrapper {
+.header-wrapper {
   padding: 2em;
 }
 
@@ -48,15 +69,20 @@ img.logo {
 .main-nav {
   display: flex;
   flex-direction: row-reverse;
-  visibility: hidden; /************************** unhide me when ready *****************************/
 }
-  .nav-item {
+  div.nav-item {
     margin-top: auto;
     margin-bottom: auto;
     padding: .7em;
+  }
+  a.nav-item, a.nav-item:visited {
     font-weight: 400;
     font-size: 24px;
     text-transform: uppercase;
+    color: #f1f1f1;
+  }
+  a.nav-item:hover {
+    color: #C62828;
   }
 
 
@@ -66,14 +92,21 @@ img.logo {
 footer {
   position: fixed;
   bottom: 1em;
+  padding: 2em;
 }
 
 .sns-list {
   display: flex;
   flex-wrap: wrap;
 }
-  .sns-item {
-      padding: 1em;
+  div.sns-item {
+    padding: 1em;
+  }
+  a.sns-item, a.sns-item:visited {
+    color: #f1f1f1;
+  }
+  a.sns-item:hover {
+    color: #C62828;
   }
 
 /**
@@ -182,4 +215,10 @@ footer {
     body.home-body {
         background-size: cover;
     }
+}
+
+@media screen and (max-width: 960px) {
+  .wrapper {
+    width: 100vw;
+  }
 }

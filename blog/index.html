@@ -1,0 +1,35 @@
+---
+layout: page
+headerbg: "blog-header-bnw.jpg"
+---
+<!--div class="blog-banner"></div-->
+
+<div class="blog-list-wrapper">
+  <!-- This loops through the paginated posts -->
+  {% for post in paginator.posts %}
+    <div class="blog-list-item">
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      <p class="meta-data-blog">
+        <span class="datestamp">{{ post.date | date_to_string }}</span>
+        {% if post.note %}<span class="note">{{ post.note }}</span>{% endif %}
+      </p>
+      {{ post.excerpt }}
+      <div class="read-more"><a href="{{ post.url }}">Continue reading</a></div>
+    </div>
+  {% endfor %}
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    {% else %}
+      <span class="previous disabled-link">Previous</span>
+    {% endif %}
+    <span class="page_number"><strong>{{ paginator.page }}</strong> of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+      <span class="next disabled-link">Next</span>
+    {% endif %}
+  </div>
+</div>

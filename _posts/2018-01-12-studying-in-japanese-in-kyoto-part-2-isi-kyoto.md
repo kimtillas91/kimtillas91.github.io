@@ -39,6 +39,6 @@ ISI Kyoto has three dormitories. Two of them are in Arashiyama; one is in Kameok
  
 The General Course is more expensive than the Academic Course. Some students transferred from General Course to Academic Course because they wanted to learn the language more in depth. The school doesn't give refunds, so it would be best to think about which course best suits your objectives. Hopefully this helps you make that choice!
 
-If you want to read about the application procedure for language schools in Japan, check out [test]({{ site.baseurl }}{% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}).
+If you want to read about the application procedure for language schools in Japan, check out [Studying Japanese in Kyoto - Part I: Application]({{ site.baseurl }}{% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}).
 
 Part III will be a review of ISI Kyoto.

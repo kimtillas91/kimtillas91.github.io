@@ -159,8 +159,8 @@ footer {
   }
 
 .cover-image {
-  background-size: cover;
   height: 280px;
+  width: 100vw;
 }
 
 /**

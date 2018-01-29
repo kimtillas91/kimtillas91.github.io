@@ -159,8 +159,8 @@ footer {
   }
 
 .cover-image {
-  background-size: cover;
   height: 280px;
+  width: 100vw;
 }
 
 /**
@@ -261,7 +261,7 @@ footer {
     }
 }
 
-@media screen and (min-width: 2348px) or (min-height: 1440px){
+@media screen and (min-width: 2348px) or (min-height: 1440px) {
     body.home-body {
         background-size: cover;
     }

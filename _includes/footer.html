@@ -1,4 +1,5 @@
-  <footer class="main-footer" {% if include.sticky=="no" %} style="position:relative;" {% endif %}>
+<!-- Begin Footer -->
+  <footer class="main-footer" {% unless include.nobgimg %}style="background-color: #0d1a21;"{% endunless %}>
     <div class="sns-list">
         <div class="sns-item"><a class="sns-item" href="mailto:{{site.email}}"><i class="fa fa-envelope-o fa-2x"></i></a></div>
         <div class="sns-item"><a class="sns-item" href="https://linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a></div>

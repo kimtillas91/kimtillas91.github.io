@@ -44,6 +44,8 @@ defaults:
     values:
         layout: "post"
         permalink: "/blog/:year/:title"
+        excerpt_separator: <!--more-->
+        adsense: "yes"
 
 # paginate
 paginate: 8

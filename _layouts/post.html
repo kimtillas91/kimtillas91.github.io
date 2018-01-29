@@ -2,13 +2,21 @@
 layout: default
 ---
 {% include header.html bgimg="blog-header-bnw.jpg" %}
- <div class="page-image">
-    <div class="cover-image" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : page.img}}) center no-repeat; background-size: cover; height: 280px;"></div>
+  <div class="page-image">
+    <div class="cover-image" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : page.img}}) center no-repeat;"></div>
   </div>
   <div class="wrapper">
     <div class="blog-wrapper">
         <h1>{{page.title}}</h1>
-        <div class="datestamp">{{page.date | date_to_string}}</div>
+        <div class="meta-data-blog">
+          <div>
+            <span class="datestamp">{{ page.date | date_to_string }}</span>
+            {% if page.note %}<span class="note">{{ page.note }}</span>{% endif %}
+          </div>  
+          <div>
+            {% if page.edited  %}<span class="datestamp update-date">last updated {{ page.edited | date_to_string }}</span>{% endif %}
+          </div>
+        </div>
         <div class="blog-content">
           {{content}}
         </div>

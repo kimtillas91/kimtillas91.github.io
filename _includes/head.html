@@ -31,4 +31,11 @@
 	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/style/main.css" | prepend: site.baseurl }}">
+	{% if page.adsense == "yes" %}<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-1091868561365544",
+		enable_page_level_ads: true
+	  });
+	</script>{% endif %}
 </head>

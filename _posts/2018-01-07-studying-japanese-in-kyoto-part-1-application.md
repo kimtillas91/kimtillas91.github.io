@@ -55,3 +55,7 @@ Once you receive your CoE, start applying for your visa. In the Philippines, lan
 
 <h3>Warning</h3>
 Do be careful in choosing which language school to enroll in. There are some [shady language schools](https://www.japantimes.co.jp/news/2017/01/03/national/social-issues/experts-warn-japans-language-schools-are-becoming-a-front-for-importing-cheap-labor/){:target="_blank" class="external"} out there that exploit the influx of foreigners coming to Japan to learn Japanese.
+
+<hr />
+
+If you want to read about the what it's like to study at ISI Kyoto, check out [Studying Japanese in Kyoto - Part II: ISI Kyoto]({{ site.baseurl }}{% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}).

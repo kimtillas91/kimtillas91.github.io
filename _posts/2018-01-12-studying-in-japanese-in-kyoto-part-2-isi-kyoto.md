@@ -33,12 +33,12 @@ The school helps you get a name stamp (判子 or 印鑑), open a bank account, a
 <h3>Dormitories</h3>
 ISI Kyoto has three dormitories. Two of them are in Arashiyama; one is in Kameoka. I don't think the dorms are actually owned by ISI. It seems to me they are only partnered with housing companies that own and manage these dorms. That said, there are teachers assigned to coordinate with these companies, so that if you do have concerns, you can approach the teacher in charge.
 
-(I have more to say about the dormitories, which I will write in a separate blog post.)
+(I have more to say about the dormitories, which I will write in a separate blog post. I did write briefly about [the dorm I am staying in now](https://kimtomwrites.wordpress.com/2018/01/28/this-blog-this-dorm/){:target="_blank" class="external"}.)
 
 <hr />
- 
+
 The General Course is more expensive than the Academic Course. Some students transferred from General Course to Academic Course because they wanted to learn the language more in depth. The school doesn't give refunds, so it would be best to think about which course best suits your objectives. Hopefully this helps you make that choice!
 
-If you want to read about the application procedure for language schools in Japan, check out [test]({{ site.baseurl }}{% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}).
+If you want to read about the application procedure for language schools in Japan, check out [Studying Japanese in Kyoto - Part I: Application]({{ site.baseurl }}{% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}).
 
 Part III will be a review of ISI Kyoto.

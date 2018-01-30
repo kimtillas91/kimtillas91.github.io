@@ -20,7 +20,11 @@ layout: default
         <div class="blog-content">
           {{content}}
         </div>
+        <div class="post-tag-container">
+          {% for tag in page.tag %}
+            <a href="/blog/tag/#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
+          {% endfor %}
+        </div>
     </div>
   </div>
-
 {% include footer.html sticky="no" %}

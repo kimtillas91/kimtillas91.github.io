@@ -10,6 +10,7 @@ body {
   min-height: 100vh;
   position: relative;
   width: 100vw;
+  line-height: 1.5;
 }
 
 .wrapper {
@@ -81,6 +82,7 @@ img.logo {
     margin-top: auto;
     margin-bottom: auto;
     padding: .7em;
+    line-height: 1;
   }
   a.nav-item, a.nav-item:visited {
     font-weight: 400;
@@ -127,7 +129,7 @@ footer {
 }
 
 .meta-data-blog {
-  font-size: .8em;
+  font-size: .9em;
   color: #636363;
 }
   .note {
@@ -135,7 +137,7 @@ footer {
     color: #9c9c9c;
   }
   .update-date {
-    font-size: .7em;
+    font-size: .8em;
     color: #9c9c9c;
   }
 
@@ -162,6 +164,36 @@ footer {
   height: 280px;
   width: 100vw;
 }
+
+.blog-tag-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-bottom: 1.5em;
+}
+.post-tag-container {
+  background-color: #ffdfdf;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 2em 0;
+}
+  .tag-box, .tag-box:visited {
+    padding: 4px 8px;
+    background-color: #994444;
+    color: #ffffff;
+    border-radius: 6px;
+    margin: 4px;
+    text-transform: lowercase;
+    font-size: .8em;
+    letter-spacing: 2px;
+  }
+  .tag-box:hover {
+    background-color: #770000;
+    color: #f1f1f1;
+    text-decoration: none;
+  }
 
 /**
  * Home

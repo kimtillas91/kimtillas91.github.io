@@ -1,0 +1,33 @@
+---
+layout: page
+title: Tag
+headerbg: "blog-header-bnw.jpg"
+permalink: /blog/tag/
+---
+
+{% include taglist.html %}
+
+<h1>Tags</h1>
+
+<!-- Begin tag list -->
+<div class="post-tag-container">
+  {% for tag in tags %}
+	<a href="#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
+  {% endfor %}
+</div>
+<!-- End tag list -->
+
+<!-- List posts per tag -->
+{% for tag in tags %}
+	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+	<ul>
+	  {% for post in site.posts %}
+	    {% if post.tags contains tag %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="meta-data-blog">{{ post.date | date_to_string }}</span>
+          </li>
+  	    {% endif %}
+	  {% endfor %}
+	</ul>
+{% endfor %}

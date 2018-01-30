@@ -1,12 +1,12 @@
 ---
 title:  "Studying Japanese in Kyoto - Part II: ISI Language School"
 date:   2018-01-12 20:52:29 +0900
-categories: Japan
-tags:   [language, study, Nihongo, Japan, life, isi]
+category: Japan
+tag:    [language, study, Nihongo, Japan, life, isi]
 note:   "originally posted on kimtomwrites.wordpress.com"
 edited: 2018-01-29 20:29:00 +0900
 img:	isi-kyoto.jpg
-description: "An overview of what it's like to study at ISI Language School - Kyoto Campus. What is a school day like for the Academic course?"
+description: "An overview of what it's like to study at ISI Language School - Kyoto Campus. What is a school day like for the Academic course? A high-intensity Nihongo class."
 ---
 [ISI Language School](http://www.isi-education.com/){:target="_blank" class="external"} has campuses in Tokyo (Ikebukuro and Takedanobaba), Nagano, and Kyoto. The Kyoto campus just opened July 2017, and I started going there in October of the same year.
 

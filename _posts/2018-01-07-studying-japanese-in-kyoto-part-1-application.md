@@ -1,17 +1,15 @@
 ---
 title:  "Studying Japanese in Kyoto - Part I: Application"
 date:   2018-01-07 20:52:29 +0900
-categories: Japan
-tags:   [language, study, Nihongo, Japan, life, application]
+category: Japan
+tag:    [language, study, Nihongo, Japan, life, application]
 note:   "originally posted on kimtomwrites.wordpress.com"
-edited: 2018-01-29 23:27:00 +0900
+edited: 2018-01-31 00:01:00 +0900
 img:	isi-kyoto.jpg
-description: "Application process to study in a Japanese language school in Japan. My experience with direct application and application via Go! Go! Nihon."
+description: "Application process to study Nihongo in a Japanese language school in Japan. My experience with direct application and application via Go! Go! Nihon."
 ---
 
 I've been studying Japanese in Kyoto since October, and I've been meaning to write about the process because when I was looking into studying at a language school in Japan, I just couldn't seem to find enough resources online, and that made me feel really anxious.
-
-I'm going to write about this topic in three parts: the first being about applications; the second about my school and school life; and the third, a review of the school.
 
 I first considered studying at a Japanese language school in Japan when my girlfriend's friend started going to one herself. At that time I was back in the Philippines taking Japanese lessons every Saturday, but was feeling largely unsatisfied with the pace of the lessons (which is not to say that I was the most diligent student, because I wasn't). Going to class only once a week, it was hard for me to retain all the vocabulary and kanji we learned in class. I felt that if I wanted to become fluent in Japanese, I had to put myself in a situation where I would always encounter the language and be forced to think and communicate in that language.
 
@@ -37,6 +35,7 @@ Things were going great. I was able to submit the requirements, and then it was 
 The people you talk to on Go! Go! Nihon were or still are language school students, so they know what people have to go through to study Japanese in Japan. The thing is, they make mistakes, too. When they do, just send them back an email and clarify things. They're nice people and will own up to their mistakes.
 
 Applying through Go! Go! Nihon also has perks, like special discounts and access to a community of fellow Japanese language learners.
+
 <h3>Overview of the Process</h3>
 <ol>
 	<li>[<strong><span style="color: #339966;">APPLICANT</span></strong>] Submit requirements and pay application fee.</li>
@@ -47,6 +46,7 @@ Applying through Go! Go! Nihon also has perks, like special discounts and access
 	<li>[<span style="color: #3366ff;"><strong>SCHOOL</strong></span>] Send you your Certificate of Eligibility (CoE).</li>
 	<li>[<strong><span style="color: #339966;">APPLICANT</span></strong>] Apply for Visa</li>
 </ol>
+
 After the school submits your application to Immigration, you will have to wait about a month for news if your CoE was granted or not. You will know the results about a month before school starts. Depending on your school, you may have to pay for your school fees before they mail you your CoE.
 
 In my case, I had to pay for the first 6 months of school, and the first 3 months rent for the dorm. After the school confirmed receipt of my payment, they sent my CoE within 48hrs.

@@ -11,6 +11,7 @@ One of the most important things to consider when planning your language study i
 
 I'm going to show you a break down of my expenses on my first 3 months in Kyoto so you can see for yourself how much you might actually need if you do decide to study here.
 <!-- more -->
+
 ### Rent
 #### JPY 45,000
 As I've mentioned in [Studying Japanese in Kyoto - Part II]({{ site.baseurl }}{% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}), I'm currently staying at one of the school's dormitories. Rent is relatively cheap. (At this time it's JPY44,300 a month, but will increase by JPY2000 come April.) The rent includes WiFi, utilities, toilet paper, dish-washing liquid, kitchen sponges. (I will write more about this in a later post. You can also find a brief post I wrote about the dorm [here](https://kimtomwrites.wordpress.com/2018/01/28/this-blog-this-dorm/){:target="_blank" class="external"})

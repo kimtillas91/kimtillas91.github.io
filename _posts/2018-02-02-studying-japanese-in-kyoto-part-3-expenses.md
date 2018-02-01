@@ -10,7 +10,7 @@ description: "A break down my expenses for the first 3 months of studying Nihong
 One of the most important things to consider when planning your language study in a foreign country is **living expenses**. Language schools typically give a rough figure of how much you will need monthly. In Kyoto, they typically say **JPY 100k per month**. That includes rent, food, and transportation.
 
 I'm going to show you a break down of my expenses on my first 3 months in Kyoto so you can see for yourself how much you might actually need if you do decide to study here.
-<!-- more -->
+<!--more-->
 
 ### Rent
 #### JPY 45,000

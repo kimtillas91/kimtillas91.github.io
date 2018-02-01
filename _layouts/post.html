@@ -25,6 +25,9 @@ layout: default
             <a href="/blog/tag/#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
           {% endfor %}
         </div>
+        <div class="post-comment-container">
+          I'm still working on implementing the comments section. While I'm at it, if you have any questions or comments, hit me up on <a href="https://twitter.com/{{site.twitter}}" target="_blank">Twitter</a>, or <a href="mailto:{{site.email}}">send me an email</a>!
+        </div>
     </div>
   </div>
 {% include footer.html sticky="no" %}

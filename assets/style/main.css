@@ -165,6 +165,12 @@ footer {
   width: 100vw;
 }
 
+p img {
+  display: block;
+  margin: auto;
+  padding-bottom: 1.5em;
+}
+
 .blog-tag-container {
   display: flex;
   flex-direction: row;
@@ -195,6 +201,11 @@ footer {
     text-decoration: none;
   }
 
+.post-comment-container {
+  background-color: #ececec;
+  padding: 2em;
+}
+
 /**
  * Home
  */
@@ -220,6 +231,9 @@ footer {
   }
 
 @media screen and (max-height: 820px) and (orientation: portrait) {
+  .wrapper {
+    padding-bottom: 256px;
+  }
     body.home-body {
       background-size: 1160px;
     }
@@ -239,6 +253,10 @@ footer {
     .services {
       text-align: center;
       margin-top: 0;
+    }
+
+    .post-img {
+      max-width: 300px;
     }
 
     footer {

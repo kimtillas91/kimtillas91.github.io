@@ -32,8 +32,8 @@ layout: default
           *  DISQUS CONFIGURATION VARIABLES
           */
           var disqus_config = function () {
-          this.page.url = {{ site.url }}{{ page.permalink }};
-          this.page.identifier = {{ page.id }}; 
+          this.page.url = {{ site.url }}{{ page.id }};
+          this.page.identifier = {{ page.idno }}; 
           };
           (function() { // DISQUS
             var d = document, s = d.createElement('script');

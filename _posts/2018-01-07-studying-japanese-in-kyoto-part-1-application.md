@@ -7,7 +7,7 @@ note:   "originally posted on kimtomwrites.wordpress.com"
 edited: 2018-01-31 00:01:00 +0900
 img:	isi-kyoto.jpg
 description: "Application process to study Nihongo in a Japanese language school in Japan. My experience with direct application and application via Go! Go! Nihon."
-id:		JP20180107
+idno:		JP20180107
 ---
 
 I've been studying Japanese in Kyoto since October, and I've been meaning to write about the process because when I was looking into studying at a language school in Japan, I just couldn't seem to find enough resources online, and that made me feel really anxious.

@@ -5,6 +5,7 @@ category: Japan
 tag:    [language, study, Nihongo, Japan, life, ISI, budget]
 img:	isi-kyoto.jpg
 description: "A break down my expenses for the first 3 months of studying Nihongo in Kyoto at a Japanese language school will hopefully give you some idea about the cost of living in Kyoto. I also give a bit of advice on how to minimize expenses."
+id:     JP20180202
 ---
 
 One of the most important things to consider when planning your language study in a foreign country is **living expenses**. Language schools typically give a rough figure of how much you will need monthly. In Kyoto, they typically say **JPY 100k per month**. That includes rent, food, and transportation.

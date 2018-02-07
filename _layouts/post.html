@@ -26,7 +26,23 @@ layout: default
           {% endfor %}
         </div>
         <div class="post-comment-container">
-          I'm still working on implementing the comments section. While I'm at it, if you have any questions or comments, hit me up on <a href="https://twitter.com/{{site.twitter}}" target="_blank">Twitter</a>, or <a href="mailto:{{site.email}}">send me an email</a>!
+          <div id="disqus_thread"></div>
+          <script>
+          /**
+          *  DISQUS CONFIGURATION VARIABLES
+          */
+          var disqus_config = function () {
+          this.page.url = {{ site.url }}{{ page.permalink }};
+          this.page.identifier = {{ page.id }}; 
+          };
+          (function() { // DISQUS
+            var d = document, s = d.createElement('script');
+            s.src = 'https://kimtomcan.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+            })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         </div>
     </div>
   </div>

@@ -7,6 +7,7 @@ img:    hit.jpg
 note:   "originally posted on kimtomwrites.wordpress.com"
 edited: 2018-01-29 19:15:00 +0900
 description: "Getting NBI and DOST-SEI Clearance. Paano kumuha ng NBI at DOST-SEI clearance? Paano kung may 'hit' sa NBI? Paano kung hindi natigil ang scholarship sa DOST?"
+id:     PH20150920
 ---
 <p>Datapuwa't isa sa mga pinaka-ayaw kong gawin ay ang pag-aasikaso ng mga dokumento, lalo na sa mga ahensiya ng gobyerno, wala akong magawa kundi gawin ito dahil rekisito ito sa trabaho. Hindi naman ako puwedeng (at ayaw ko naman na) habambuhay humingi ng pera sa magulang ko.</p>
 

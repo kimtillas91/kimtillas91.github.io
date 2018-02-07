@@ -46,6 +46,7 @@ defaults:
         permalink: "/blog/:year/:title"
         excerpt_separator: <!--more-->
         adsense: "yes"
+        comments: true
 
 # paginate
 paginate: 8

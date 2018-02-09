@@ -7,43 +7,43 @@ layout: default
   </div>
   <div class="wrapper">
     <div class="blog-wrapper">
-        <h1>{{page.title}}</h1>
-        <div class="meta-data-blog">
-          <div>
-            <span class="datestamp">{{ page.date | date_to_string }}</span>
-            {% if page.note %}<span class="note">{{ page.note }}</span>{% endif %}
-          </div>  
-          <div>
-            {% if page.edited  %}<span class="datestamp update-date">last updated {{ page.edited | date_to_string }}</span>{% endif %}
-          </div>
+      <h1>{{page.title}}</h1>
+      <div class="meta-data-blog">
+        <div>
+          <span class="datestamp">{{ page.date | date_to_string }}</span>
+          {% if page.note %}<span class="note">{{ page.note }}</span>{% endif %}
+        </div>  
+        <div>
+          {% if page.edited  %}<span class="datestamp update-date">last updated {{ page.edited | date_to_string }}</span>{% endif %}
         </div>
-        <div class="blog-content">
-          {{content}}
-        </div>
-        <div class="post-tag-container">
-          {% for tag in page.tag %}
-            <a href="/blog/tag/#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
-          {% endfor %}
-        </div>
-        <div class="post-comment-container">
-          <div id="disqus_thread"></div>
-          <script>
-          /**
-          *  DISQUS CONFIGURATION VARIABLES
-          */
-          var disqus_config = function () {
-          this.page.url = '{{ site.url }}{{ page.id }}';
-          this.page.identifier = {{ page.idno }}; 
-          };
-          (function() { // DISQUS
-            var d = document, s = d.createElement('script');
-            s.src = 'https://kimtomcan.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-            })();
-          </script>
-          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        </div>
+      </div>
+      <div class="blog-content">
+        {{content}}
+      </div>
+      <div class="post-tag-container">
+        {% for tag in page.tag %}
+          <a href="/blog/tag/#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
+        {% endfor %}
+      </div>
+      <div class="post-comment-container">
+        <div id="disqus_thread"></div>
+        <script>
+        /**
+        *  DISQUS CONFIGURATION VARIABLES
+        */
+        var disqus_config = function () {
+        this.page.url = '{{ site.url }}{{ page.id }}';
+        this.page.identifier = '{{ page.idno }}'; 
+        };
+        (function() { // DISQUS
+          var d = document, s = d.createElement('script');
+          s.src = 'https://kimtomcan.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+          })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      </div>
     </div>
   </div>
 {% include footer.html sticky="no" %}

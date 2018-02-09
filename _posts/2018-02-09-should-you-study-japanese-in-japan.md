@@ -1,6 +1,6 @@
 ---
 title:  "Should You Study Japanese in Japan?"
-date:   2018-02-02 18:00:00 +0900
+date:   2018-02-09 22:27:00 +0900
 category: Japan
 tag:    [language, study, Nihongo, Japan, life, personal]
 img:	nihongo-book.jpg

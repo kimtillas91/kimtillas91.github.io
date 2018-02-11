@@ -25,6 +25,7 @@ layout: default
           <a href="/blog/tag/#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
         {% endfor %}
       </div>
+      {% include relatedposts.html %}
       <div class="post-comment-container">
         <div id="disqus_thread"></div>
         <script>

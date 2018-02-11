@@ -16,7 +16,7 @@
         {% if post.url != page.url %}
         {% if page.tags contains tag %}
             {% assign sameTagCount = sameTagCount | plus: 1 %}
-            {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+            {% comment %}{% capture tagmarkup %} <a href="/blog/tag/#{{ tag | slugify }}" ><div>#{{ tag }}</div></a> {% endcapture %}{% endcomment %}
             {% assign commonTags = commonTags | append: tagmarkup %}
         {% endif %}
         {% endif %}
@@ -24,10 +24,12 @@
 
     {% if sameTagCount >= minCommonTags %}
         <div class="related-post-container">
-          <div class="related-post">
-            <div class="related-post-img" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}}) center no-repeat; background-size: cover;"></div>
-            <div class="related-post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></div>
-          </div>
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                <div class="related-post">
+                    <div class="related-post-img" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}}) center no-repeat; background-size: cover;"></div>
+                    <div class="related-post-title">{{ post.title }}{{ commonTags }}</div>
+                </div>
+            </a>
         </div>
         {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
         {% if maxRelatedCounter >= maxRelated %}

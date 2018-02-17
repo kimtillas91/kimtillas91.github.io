@@ -4,7 +4,7 @@ date:   2018-02-17 14:24:00 +0900
 category: Japan
 tag:    [language, study, Nihongo, Japan, technology]
 img:	nihongo-books-phone.jpg
-description: "Different types of applications can help supplement your language study. Here are some apps that I found helpful in studying Japanese (Nihongo)."
+description: "Different types of applications can help supplement your language study. Here are some apps that I found helpful in studying Japanese (Nihongo), from dictionaries, to gamification, to social media and more."
 idno:   JP20180217
 ---
 

@@ -5,6 +5,7 @@ category: Japan
 tag:    [language, study, Nihongo, Japan, life, personal]
 img:	nihongo-book.jpg
 description: "Should you study Japanese (Nihongo) in Japane? Is it worth it?"
+idno:   JP20180209
 ---
 I've been studying Nihongo in Kyoto for about four months now, and throughout those four months I've had a lot of time to think about my decision to come here to study the language. I've made friends with different backgrounds and goals, and have recently had conversations with them about our current situation, studying Japanese in Japan.
 

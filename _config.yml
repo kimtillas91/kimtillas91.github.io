@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Kim Tom Can
-email: kimberly.cantillas@gmail.com
+email: kimtomcan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Kim Tom Can - Online Portfolio.
   Web Design & Development, Graphic Design.

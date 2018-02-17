@@ -171,6 +171,14 @@ p img {
   padding-bottom: 1.5em;
 }
 
+blockquote {
+  border-left: 4px solid #994444;
+  padding-left: 2px;
+  margin-left: 0;
+  padding: 12px;
+  background-color: #ececec;
+}
+
 /**
  * TAGS
  */
@@ -231,6 +239,7 @@ p img {
     }
     .related-post-img {
       height: 144px;
+      min-width: 288px;
     }
     .related-post-title {
       padding: 4px;

@@ -3,7 +3,7 @@ title:  "Should You Study Japanese in Japan?"
 date:   2018-02-09 22:27:00 +0900
 category: Japan
 tag:    [language, study, Nihongo, Japan, life, personal]
-img:	nihongo-book.jpg
+img:	osaka-selfie.jpg
 description: "Should you study Japanese (Nihongo) in Japane? Is it worth it?"
 idno:   JP20180209
 ---

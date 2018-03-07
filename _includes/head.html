@@ -16,9 +16,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- open graph -->
 	<meta property="og:type" content="article">
-	<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
 	<meta property="og:image" content="{% if page.img %}{{"/assets/img/" | prepend: site.url | append : page.img}}{% else %}{{"/assets/img/logo-kim-02.png" | prepend: site.url }}{% endif %}">
+	<meta property="og:description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
 	<!-- end open graph -->
 	<link rel="shortcut icon" href="{{ "/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
 	<!--link rel="apple-touch-icon" href="{{ "/assets/img/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">

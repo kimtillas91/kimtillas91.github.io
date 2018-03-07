@@ -6,6 +6,7 @@ tag:    [language, study, Nihongo, Japan, life, ISI, budget]
 img:	okane.jpg
 description: "A break down my expenses for the first 3 months of studying Nihongo in Kyoto at a Japanese language school will hopefully give you some idea about the cost of living in Kyoto. I also give a bit of advice on how to minimize expenses."
 idno:     JP20180202
+edited:   2018-02-26 19:51:00 +0900
 ---
 
 One of the most important things to consider when planning your language study in a foreign country is **living expenses**. Language schools typically give a rough figure of how much you will need monthly. In Kyoto, they typically say **JPY 100k per month**. That includes rent, food, and transportation.
@@ -39,7 +40,7 @@ Prices with yellow background are usually discounted prices.
 
 ### Transportation
 #### JPY 12,000
-I usually take the train to school. It costs JPY 190. Students in our school aren't elligible to get a student commuter pass, unfortunately. I thought that meant we couldn't get a commuter pass at all, so that's why my monthly transportation costs around this much. If you get a commuter pass, you can bring down the cost a little more.
+I usually take the train to school. It costs JPY 190. Students in our school aren't elligible to get a student commuter pass, unfortunately. I thought that meant we couldn't get a commuter pass at all, so that's why my monthly transportation costs around this much. If you get a commuter pass, you can bring down by a few thousand yen.
 
 Once in a while I also go out with friends, but we try to walk as much as we can just so we don't spend too much.
 

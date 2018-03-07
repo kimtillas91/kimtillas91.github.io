@@ -179,6 +179,11 @@ blockquote {
   background-color: #ececec;
 }
 
+.adspace {
+  background-color: #ffdfdf;
+  padding: 8px;
+}
+
 /**
  * TAGS
  */

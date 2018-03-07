@@ -4,7 +4,7 @@ date:   2018-03-07 19:25:00 +0900
 category: Japan
 tag:    [language, study, learn, Japanese, Nihongo, Japan, books]
 img:	inari-tori.jpg
-description: "Want to learn Japanese (Nihongo) but don't know where to start? Here are some tips and resources to help you start!"
+description: "Want to learn Japanese (Nihongo) but don't know where to start? Here are some tips and resources to help you!"
 idno:   JP20180307
 ---
 

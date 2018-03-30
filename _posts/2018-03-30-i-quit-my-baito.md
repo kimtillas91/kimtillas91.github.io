@@ -32,7 +32,7 @@ The group of companies required a specific bank in which they would deposit the 
 
 ----
 
-The school has also recently been in contact with more establishments, so there are more options for employment. It was the school that introduced me to my current job, also a restaurant. My boss is great; she's like a mom. And the people leading don't expect you to know everything. If they know you aren't ready to do something, they won't force you, but they will encourage and push you to take more and more responsibility until you get used to the work. I also had to come in late one day (because I was moving out and my schedule got pushed back by two hours) and my boss was very understanding about it.
+The school has recently been in contact with more establishments, so there are more options for employment. It was the school that introduced me to my current job, also a restaurant. My boss is great; she's like a mom. And the people leading don't expect you to know everything. If they know you aren't ready to do something, they won't force you, but they will encourage and push you to take more and more responsibility until you get used to the work. I also had to come in late one day (because I was moving out and my schedule got pushed back by two hours) and my boss was very understanding about it.
 
 Sometimes my working days change though, like if someone asks to have their schedule changed and my boss has to re-adjust other people's schedules as well, because you can't have too many or too few on staff. But I still get at at least 20 hours a week.
 

@@ -3,7 +3,7 @@ title:  "I Quit My Baito"
 date:   2018-03-30 20:45:00 +0800
 category: Japan
 tag:    [Japan, life, personal, adulting, work]
-img:	  street-food.jpg
+img:	  street-food.JPG
 description: "I quit my part-time job ('baito' or 'arubaito') at an izakaya, in part because of my boss, in part because of company policy."
 idno: JP20180330
 ---

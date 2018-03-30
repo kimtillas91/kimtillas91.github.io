@@ -3,7 +3,7 @@ title:  "I Quit My Baito"
 date:   2018-03-30 20:45:00 +0800
 category: Japan
 tag:    [Japan, life, personal, adulting, work]
-img:	street-food.jpg
+img:	  street-food.jpg
 description: "I quit my part-time job ("baito" or "arubaito") at an izakaya, in part because of my boss, in part because of company policy."
 idno: JP20180330
 ---
@@ -14,9 +14,9 @@ Even before coming to Kyoto, I was already looking for part-time work I could st
 <!--more-->
 When I arrived in Kyoto, my school had only been operating for 3 months, so during my first term, the available jobs posted on our bulletin board were more of factory work and cleaning jobs. And although I was fine with that kind of work, .the hiring organization that was working with the school never got back to me about the jobs.
 
-So I looked for other means to find jobs. My sister's friend introduced me to her friend, who introduced me to another friend who got me an interview at the restaurant she worked at. Unfortunately I failed that interview because half-way into the interview, I choked because my interviewer started using words I wasn't yet familiar with. I also found a [website for connecting language learners to teachers](hello-sensei), but no one ever contacted me.
+So I looked for other means to find jobs. My sister's friend introduced me to her friend, who introduced me to another friend who got me an interview at the restaurant she worked at. Unfortunately I failed that interview because half-way into the interview, I choked because my interviewer started using words I wasn't yet familiar with. I also found a [website for connecting language learners to teachers](https://hello-sensei.com/en/sensei){:target="_blank" class="external"}, but no one ever contacted me.
 
-I then started seeing ads on Facebook for services that help foreigners find work in Japan. I first tried [FindWorks]() and they introduced me to what would be my first part-time job. It was a popular izakaya chain. I passed the interview, but because I was too focused on just getting employed, I didn't think carefully about the conditions that would eventually be part of the reasons why I quit that job.
+I then started seeing ads on Facebook for services that help foreigners find work in Japan. I first tried [FindWorks](https://findworks.jp/){:target="_blank" class="external"} and they introduced me to what would be my first part-time job. It was a popular izakaya chain. I passed the interview, but because I was too focused on just getting employed, I didn't think carefully about the conditions that would eventually be part of the reasons why I quit that job.
 
 Before I get to why I quit, I also want to express my frustration in the application process. After passing the interview, I was asked to submit some documents (from my school and the ward office) which cost me a significant amount of money---maybe a few hundred to a thousand yen. After submitting the documents, I had to wait for the regional office to deliver the shoes that was part of our uniform, and that took about a month. During that waiting period, the good people from FindWorks kept asking for updates about my application, so I had to keep calling the izakaya/regional office for updates. And for someone who doesn't like making phone calls, having to make phone calls in a language you're still just learning caused a lot of anxiety.
 

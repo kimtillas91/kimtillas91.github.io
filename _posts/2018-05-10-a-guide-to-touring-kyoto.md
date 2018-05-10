@@ -40,7 +40,7 @@ Typical tourist destinations start getting crowded from 10AM. Crowds usually gat
 
 ## Where to go, What to see
 
-If you want to visit as many (popular tourist) places as you can within two or three days (one day is really not enough), the best way to go about it is to divide the city into three: west, center, and east. In this way, you don't spend too much time going from one place to another.
+If you want to visit as many (popular tourist) places as you can within two or three days (one day is really not enough), the best way to go about it is to divide the city into three: west, middle, and east. In this way, you don't spend too much time going from one place to another.
 
 ![Kyoto City]({{ site.baseurl }}/assets/img/kyoto-map-2.jpg "Kyoto Map: West, Center, East"){:class="post-img"}
 
@@ -77,7 +77,7 @@ Open from 9AM - 5PM. Admission is JPY2,200 for adults; some attractions cost add
 
 The Toei Kyoto Studio Park is a film set and theme park that recreates the Edo Period. There are some shows you can watch for free. There are also some actors roaming around the park with whom you can take pictures with.
 
-### Center Kyoto
+### Middle Kyoto
 
 - Nijo Castle
 - Kyoto International Manga Museum

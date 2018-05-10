@@ -1,6 +1,6 @@
 ---
 title:  "A Guide to Touring Kyoto"
-date:   2018-05-10 10:24:00 +0900
+date:   2018-05-10 18:10:00 +0900
 category: Japan
 tag:    [Japan, travel, guide, Kyoto, tour]
 img:	inari-inori.jpg

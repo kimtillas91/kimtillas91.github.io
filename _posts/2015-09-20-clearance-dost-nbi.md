@@ -2,7 +2,7 @@
 title:  "DOST and NBI Clearance"
 date:   2015-09-20 20:52:29 +0800
 category: Philippines
-tag:    [adulting, Philippines, documents, NBI, DOST, clearance]
+tag:    [adulting, Philippines, documents, NBI, DOST, clearance, life, personal]
 img:    hit.jpg
 note:   "originally posted on kimtomwrites.wordpress.com"
 edited: 2018-01-29 19:15:00 +0900

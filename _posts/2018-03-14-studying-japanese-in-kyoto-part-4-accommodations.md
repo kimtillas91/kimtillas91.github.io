@@ -5,6 +5,7 @@ category: Japan
 tag:    [language, study, Nihongo, Japan, life, personal, budget, accommodation, Kyoto]
 img:	osk-houses.jpg
 description: "What options are available for accommodation for when you study in Japan? How does each differ from the other? What are the pros and cons of each type of accommodation?"
+idno: JP20180314
 ---
 
 After finally securing your application to a language school, you now have to think about accommodations. If you applied to a language school via a service such as [Go! Go! Nihon](https://gogonihon.com/en/){:target="_blank" class="external"}, they usually help you find accommodations. Your options usually include dormitories, apartments, sharehouses, and homestays. If you applied directly to a school, they would also likely help you find a place. After all, they sponsored your visa, so they are in some way responsible for you. You can also look for a place on your own via the Internet.

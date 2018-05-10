@@ -2,7 +2,7 @@
 title:  "Studying Japanese in Kyoto - Part I: Application"
 date:   2018-01-07 20:52:29 +0900
 category: Japan
-tag:    [language, study, Nihongo, Japan, life, application]
+tag:    [language, study, Nihongo, Japan, life, application, Kyoto]
 note:   "originally posted on kimtomwrites.wordpress.com"
 edited: 2018-01-31 00:01:00 +0900
 img:	isi-kyoto.jpg

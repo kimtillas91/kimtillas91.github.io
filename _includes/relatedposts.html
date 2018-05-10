@@ -2,6 +2,7 @@
     <div class="related-posts-label"><h4>Related Posts</h4></div>
         
     <div class="related-posts-list">
+    {% assign hasRelated = 0 %}
     {% assign maxRelated = 3 %}
     {% assign minCommonTags =  2 %}
     {% assign maxRelatedCounter = 0 %}
@@ -22,6 +23,7 @@
         {% endfor %}
     
         {% if sameTagCount >= minCommonTags %}
+                {% assign hasRelated = 1 %}
             <div class="related-post-container">
                 <a href="{{ site.baseurl }}{{ post.url }}">
                     <div class="related-post">
@@ -37,5 +39,9 @@
         {% endif %}
     
     {% endfor %}
+    
+    {% if hasRelated == 0 %}
+        <div style="margin:0 auto;">No related content yet</div>
+    {% endif %}
     </div>
 </div>

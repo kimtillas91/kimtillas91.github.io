@@ -2,7 +2,7 @@
 title:  "Studying Japanese in Kyoto - Part IV: Accommodation"
 date:   2018-03-14 0:15:00 +0900
 category: Japan
-tag:    [language, study, Nihongo, Japan, life, personal, budget, accommodation]
+tag:    [language, study, Nihongo, Japan, life, personal, budget, accommodation, Kyoto]
 img:	osk-houses.jpg
 description: "What options are available for accommodation for when you study in Japan? How does each differ from the other? What are the pros and cons of each type of accommodation?"
 ---

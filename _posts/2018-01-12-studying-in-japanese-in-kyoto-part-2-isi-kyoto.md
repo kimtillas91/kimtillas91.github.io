@@ -2,7 +2,7 @@
 title:  "Studying Japanese in Kyoto - Part II: ISI Language School"
 date:   2018-01-12 20:52:29 +0900
 category: Japan
-tag:    [language, study, Nihongo, Japan, life, ISI]
+tag:    [language, study, Nihongo, Japan, life, ISI, Kyoto]
 note:   "originally posted on kimtomwrites.wordpress.com"
 edited: 2018-01-29 20:29:00 +0900
 img:	isi-kyoto.jpg

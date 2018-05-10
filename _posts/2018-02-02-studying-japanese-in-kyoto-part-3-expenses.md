@@ -2,7 +2,7 @@
 title:  "Studying Japanese in Kyoto - Part III: Monthly Expenses"
 date:   2018-02-02 19:00:00 +0900
 category: Japan
-tag:    [language, study, Nihongo, Japan, life, ISI, budget]
+tag:    [language, study, Nihongo, Japan, life, ISI, budget, Kyoto]
 img:	okane.jpg
 description: "A break down my expenses for the first 3 months of studying Nihongo in Kyoto at a Japanese language school will hopefully give you some idea about the cost of living in Kyoto. I also give a bit of advice on how to minimize expenses."
 idno:     JP20180202

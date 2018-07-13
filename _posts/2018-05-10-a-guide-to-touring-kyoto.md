@@ -5,7 +5,7 @@ category: Japan
 tag:    [Japan, travel, guide, Kyoto, tour]
 img:	inari-inori.jpg
 description: "This is a brief guide for people who want to maximize a few days of travel around Kyoto. Learn a little more about Kyoto so you can make a more efficient itinerary."
-idno:   JP20180415
+idno:   JP20180510
 ---
 
 Filipinos usually allot only a few days for travelling (because we don't want to use up all our paid vacation leaves in one go). When we do travel, especially abroad, we want to make the most of it, i.e., doing as much sight-seeing as you possibly can. To do that, it's best to have an itinerary. Not necessarily something you need to follow down to the letter, but at least something to refer to so you know where to go and how to get there (and if you're on a budget, how much it would cost).

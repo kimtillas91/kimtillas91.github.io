@@ -1,10 +1,10 @@
 ---
 title:  "Passport Renewal"
-date:   2018-07-20 18:00:00 +0800
+date:   2018-07-20 19:00:00 +0800
 category: Philippines
 tag:    [adulting, Philippines, documents, DFA, passport, life, personal]
 img:    passport.jpg
-description: "How to renew your passport?"
+description: "How to go about the renewal of your Philippine passport? Here's an overview of what you need to do, and what you need to prepare. From reserving an appointment to the actual passport renewal appointment."
 idno:     PH20180720
 ---
 Kamakailan, ang bisa ng pasaporte ng Pilipinas ay tumaas sa 10 taon mula sa dating limang taon lamang. Dahil siguro rito, at dahil na rin nagiging mas abot-kaya ang pagbili ng tiket sa eroplano, salamat sa mga budget airline, at nauuso ang paglalakbay sa ibang bansa, dumami ang mga nagpapa-renew ng kani-kanilang pasaporte.

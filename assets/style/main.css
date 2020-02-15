@@ -15,7 +15,7 @@ body {
 
 .wrapper {
   margin:auto;
-  padding-bottom: 200px;
+  /*padding-bottom: 200px;*/
   width: 960px;
 }
 
@@ -119,6 +119,24 @@ footer {
   a.sns-item:hover {
     color: #C62828;
   }
+
+/**
+ * Page
+ */
+.wrap-flex {
+  display: flex;
+  padding: 1em 0em;
+}
+  .wrap-flex-content {
+    margin: 1em 1em;
+  }
+
+#about-img {
+  background: url('/assets/img/kim_about.jpg') no-repeat;
+  width: 70em;
+  background-size: 100%;
+  height: 33em;
+}
 
 /**
  * Blog
@@ -467,7 +485,7 @@ body.home-body {
     }
 }
 
-@media screen and (min-width: 2348px) or (min-height: 1440px) {
+@media screen and (min-width: 2348px), (min-height: 1440px) {
     body.home-body {
         background-size: cover !important;
     }
@@ -486,5 +504,37 @@ body.home-body {
     max-width: 800px;
     padding: 0 24px;
     margin: auto;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .wrapper {
+    max-width: 100vw;
+    margin: auto;
+    height: 100vw;
+    background-color: #0d1a21;
+  }
+
+  .wrap-flex {
+    padding: 0em;
+    height: 95vw;
+  }
+    .wrap-flex-content {
+      background: url('/assets/img/kim_about.jpg') no-repeat;
+      background-size: 100%;
+      margin: 0em;
+      height: 100vw;
+    }
+  
+  #about-img {
+    display: none;
+  }
+
+  #about-desc {
+    padding: 1em 1.5em;
+    background-color: rgba(198, 40, 40, 0.8);
+    color: #EEE;
+    background-blend-mode: multiply; 
+    height: 33em;   
   }
 }

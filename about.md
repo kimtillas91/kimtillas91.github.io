@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="wrap-flex">
   <div class="wrap-flex-content" id="about-img">
-    <!--img id="about-img" src="{{site.baseurl}}/assets/img/kim_about.jpg" alt="moi" title="moi" /-->
+    <!--this is where my picture goes-->
   </div>
   <div class="wrap-flex-content" id="about-desc">
     <p>Hello! I'm Kim Tom.</p>

@@ -532,7 +532,7 @@ body.home-body {
 
   #about-desc {
     padding: 1em 1.5em;
-    background-color: rgba(198, 40, 40, 0.8);
+    background-color: rgb(0, 60, 202);
     color: #EEE;
     background-blend-mode: multiply; 
     height: 33em;   

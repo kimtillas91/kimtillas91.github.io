@@ -11,7 +11,7 @@ permalink: /about/
   <div class="wrap-flex-content" id="about-desc">
     <p>Hello! I'm <b>Kim Tom</b>.</p>
 
-    <p>I am a Software QA by profession. I make websites and do graphic design on the side.</p>
+    <p>I am a Software Engineer by profession. I started out as a Software Test Engineer, and have recently shifted to Software Development.</p>
 
     <p>I completed my Bachelor's Degree in <b>Computer Science</b> with specialization in Network Engineering at De La Salle University - Manila, during which time I was an active member of <b><a href="https://issuu.com/malatelitfolio" target="_blank">Malate Literary Folio</a></b>, the university's official literature and visual arts publication, where I served as Editor-in-Chief for two consecutive years.</p>
 

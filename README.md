@@ -1,3 +1,3 @@
-# kimtillas91.github.io
+# blog
 
 Base Jekyll Theme: Minima

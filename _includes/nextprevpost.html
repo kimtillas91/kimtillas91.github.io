@@ -5,7 +5,7 @@
       <div class="prev np-arrow"><i class="fa fa-angle-left fa-2x" style="margin:auto;"></i></div>
       <div class="np-post-text">
         <div class="prev np-label">PREVIOUS</div>
-        <div class="np-title">{{page.previous.title}}</div>
+        <div class="np-title">{{page.previous.title}}{% if page.previous.subtitle %} - {{ page.previous.subtitle }}{% endif %}</div>
       </div>
     </div>
   </a>
@@ -15,7 +15,7 @@
     <div class="next np-post-container">
       <div class="np-post-text">
         <div class="next np-label">NEXT</div>
-        <div class="np-title">{{page.next.title}}</div>
+        <div class="np-title">{{page.next.title}}{% if page.next.subtitle %} - {{ page.next.subtitle }}{% endif %}</div>
       </div>
         <div class="next np-arrow"><i class="fa fa-angle-right fa-2x" style="margin:auto;"></i></div>
     </div>

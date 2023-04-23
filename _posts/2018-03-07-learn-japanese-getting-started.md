@@ -91,4 +91,4 @@ amzn_assoc_design = "in_content";
 </div>
 ----
 
-For a list of suggested apps, click [here]({{ site.baseurl }}{% post_url 2018-02-17-apps-to-supplement-your-nihongo-study %})!
+For a list of suggested apps, click [here]({% post_url 2018-02-17-apps-to-supplement-your-nihongo-study %})!

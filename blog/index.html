@@ -9,20 +9,34 @@ adsense: yes
 <div class="blog-list-wrapper">
   <!-- This loops through the paginated posts -->
   {% for post in paginator.posts %}
-    <div class="blog-list-item">
-      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="blog-tag-container">
-        {% for tag in post.tag %}
-          <a href="/blog/tag/#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
-        {% endfor %}
+    <div class="blog-list-card">
+      <div class="blog-list-item">
+        <div class="blog-list-item-header">
+          <div class="blog-list-item-header-bg" style="background: url({{ site.baseurl  }}/assets/img/{{ post.img }});">
+          </div>
+          <div class=" blog-list-item-header-bg overlay"></div>
+
+          <div class="blog-list-item-header-meta">
+            <a href="{{ post.url }}"><h1 class="blog-list-item-header-meta">{{ post.title }}</h1>
+              {% if post.subtitle %}<h2 class="blog-list-item-header-meta">{{ post.subtitle }}</h2>{% endif %}</a>
+            <div class="blog-tag-container">
+              {% for tag in post.tag %}
+                <a href="/blog/tag/#{{ tag | slugify }}" class="tag-box"><div>#{{ tag }}</div></a>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+        
+        <div class="blog-list-item-body">
+          <div class="meta-data-blog">
+            <span class="datestamp">{{ post.date | date_to_string }}</span>
+            {% if post.note %}<span class="note">{{ post.note }}</span>{% endif %}
+          </div>
+          {{ post.excerpt }}
+          <div class="read-more"><a href="{{ post.url }}">Continue reading</a></div>
+        </div>
+        
       </div>
-      <div class="meta-data-blog">
-        <span class="datestamp">{{ post.date | date_to_string }}</span>
-        {% if post.note %}<span class="note">{{ post.note }}</span>{% endif %}
-      </div>
-      {{ post.excerpt }}
-      <div class="read-more"><a href="{{ post.url }}">Continue reading</a></div>
-      
     </div>
   {% endfor %}
 

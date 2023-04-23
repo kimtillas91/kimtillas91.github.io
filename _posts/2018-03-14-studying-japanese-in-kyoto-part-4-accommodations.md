@@ -1,5 +1,6 @@
 ---
-title:  "Studying Japanese in Kyoto - Part IV: Accommodation"
+title:  "Studying Japanese in Kyoto"
+subtitle: "Part IV: Accommodation"
 date:   2018-03-14 0:15:00 +0900
 category: Japan
 tag:    [language, study, Nihongo, Japan, life, personal, budget, accommodation, Kyoto]

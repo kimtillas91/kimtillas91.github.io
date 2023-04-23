@@ -57,8 +57,8 @@ If you can already have daily conversations in Japanese (JLPT N3), you will have
 
 If you really want to study Japanese in Japan but don't have enough for an entire term (which is usually three months long), you can go on a study trip instead.
 
-If you want to have a rough picture of the cost of living in Kyoto, I wrote about [my monthly expenses]({{ site.baseurl }}{% post_url 2018-02-02-studying-japanese-in-kyoto-part-3-expenses %}) in a previous post.
+If you want to have a rough picture of the cost of living in Kyoto, I wrote about [my monthly expenses]({% post_url 2018-02-02-studying-japanese-in-kyoto-part-3-expenses %}) in a previous post.
 
 ----
 
-If you want to know more about studying Japanese in Japan, I wrote about the [application process]({{ site.baseurl }}{% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}) and a little bit about [what it's like to study at my current language school]({{ site.baseurl }}{% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}) in previous posts.
+If you want to know more about studying Japanese in Japan, I wrote about the [application process]({% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}) and a little bit about [what it's like to study at my current language school]({% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}) in previous posts.

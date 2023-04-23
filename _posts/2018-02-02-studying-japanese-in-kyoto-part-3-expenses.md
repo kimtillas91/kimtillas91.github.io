@@ -1,5 +1,6 @@
 ---
-title:  "Studying Japanese in Kyoto - Part III: Monthly Expenses"
+title:  "Studying Japanese in Kyoto"
+subtitle: "Part III: Monthly Expenses"
 date:   2018-02-02 19:00:00 +0900
 category: Japan
 tag:    [language, study, Nihongo, Japan, life, ISI, budget, Kyoto]
@@ -16,7 +17,7 @@ I'm going to show you a break down of my expenses on my first 3 months in Kyoto 
 
 ### Rent
 #### JPY 45,000
-As I've mentioned in [Studying Japanese in Kyoto - Part II]({{ site.baseurl }}{% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}), I'm currently staying at one of the school's dormitories. Rent is relatively cheap. (At this time it's JPY44,300 a month, but will increase by JPY2000 come April.) The rent includes WiFi, utilities, toilet paper, dish-washing liquid, kitchen sponges. (I will write more about this in a later post. You can also find a brief post I wrote about the dorm [here](https://kimtomwrites.wordpress.com/2018/01/28/this-blog-this-dorm/){:target="_blank" class="external"})
+As I've mentioned in [Studying Japanese in Kyoto - Part II]({% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}), I'm currently staying at one of the school's dormitories. Rent is relatively cheap. (At this time it's JPY44,300 a month, but will increase by JPY2000 come April.) The rent includes WiFi, utilities, toilet paper, dish-washing liquid, kitchen sponges. (I will write more about this in a later post. You can also find a brief post I wrote about the dorm [here](https://kimtomwrites.wordpress.com/2018/01/28/this-blog-this-dorm/){:target="_blank" class="external"})
 
 ### Food and Drinks
 #### JPY 17,000
@@ -72,4 +73,4 @@ Also, if you're staying more than 3 months, you may have to get national health 
 
 Almost everything in Japan is expensive, and I think people from most countries will agree on this. If you are on student visa, you are actually allowed to work up to 28 hours a week (40 hours during term breaks) part-time. Unfortunately, here in Kyoto, it takes some luck to find a good job, and working 28 hours a week on top of school isn't as easy as it may seem.
 
-In the future I will write more about my experiences with part-time work (アルバイト). In the mean time, you can check out what I wrote about the [application process for Japanese language schools]({{ site.baseurl }}{% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}) or find out [what it's like to study at ISI Kyoto]({{ site.baseurl }}{% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}).
+In the future I will write more about my experiences with part-time work (アルバイト). In the mean time, you can check out what I wrote about the [application process for Japanese language schools]({% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}) or find out [what it's like to study at ISI Kyoto]({% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}).

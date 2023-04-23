@@ -1,5 +1,6 @@
 ---
-title:  "Studying Japanese in Kyoto - Part I: Application"
+title:  "Studying Japanese in Kyoto"
+subtitle: "Part I: Application"
 date:   2018-01-07 20:52:29 +0900
 category: Japan
 tag:    [language, study, Nihongo, Japan, life, application, Kyoto]
@@ -59,4 +60,4 @@ Do be careful in choosing which language school to enroll in. There are some [sh
 
 <hr />
 
-If you want to read about the what it's like to study at ISI Kyoto, check out [Studying Japanese in Kyoto - Part II: ISI Kyoto]({{ site.baseurl }}{% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}).
+If you want to read about the what it's like to study at ISI Kyoto, check out [Studying Japanese in Kyoto - Part II: ISI Kyoto]({% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}).

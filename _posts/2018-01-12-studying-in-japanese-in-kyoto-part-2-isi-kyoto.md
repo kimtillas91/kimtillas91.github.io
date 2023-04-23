@@ -1,5 +1,6 @@
 ---
-title:  "Studying Japanese in Kyoto - Part II: ISI Language School"
+title:  "Studying Japanese in Kyoto"
+subtitle: "Part II: ISI Language School"
 date:   2018-01-12 20:52:29 +0900
 category: Japan
 tag:    [language, study, Nihongo, Japan, life, ISI, Kyoto]
@@ -40,4 +41,4 @@ ISI Kyoto has three dormitories. Two of them are in Arashiyama; one is in Kameok
 
 The General Course is more expensive than the Academic Course. Some students transferred from General Course to Academic Course because they wanted to learn the language more in depth. The school doesn't give refunds, so it would be best to think about which course best suits your objectives. Hopefully this helps you make that choice!
 
-If you want to read about the application procedure for language schools in Japan, check out [Studying Japanese in Kyoto - Part I: Application]({{ site.baseurl }}{% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}).
+If you want to read about the application procedure for language schools in Japan, check out [Studying Japanese in Kyoto - Part I: Application]({% post_url 2018-01-07-studying-japanese-in-kyoto-part-1-application %}).

@@ -1,5 +1,6 @@
 ---
-title:  "Studying Japanese in Kyoto - Part V: Transportation"
+title:  "Studying Japanese in Kyoto"
+subtitle: "Part V: Transportation"
 date:   2018-05-31 20:15:30 +0900
 category: Japan
 tag:    [language, study, Nihongo, Japan, life, budget, transportation, commute, train, bus, Kyoto]
@@ -51,7 +52,7 @@ The cheapest way to get around Kyoto is by bike. Especially if you're planning t
 
 I decided against buying a bicycle because I was only supposed to study in Kyoto from October to March, and I didn't want to ride a bicycle out in the cold. It hardly snowed this year (and it doesn't snow that much in Kyoto city), so that's something you don't have to worry much about if you're thinking about buying a bike.
 
-There's a free bike parking right outside [my school]({{ site.baseurl }}{% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}){:target="_blank"} and that could have saved me a lot of money. And speaking of parking, be mindful of places where you can and can't park your bicycle. There are usually spaces in front of stores (especially convenience stores and supermarkets) where you can park your bike. You can also look for bicycle parking signs (駐輪場).
+There's a free bike parking right outside [my school]({% post_url 2018-01-12-studying-in-japanese-in-kyoto-part-2-isi-kyoto %}){:target="_blank"} and that could have saved me a lot of money. And speaking of parking, be mindful of places where you can and can't park your bicycle. There are usually spaces in front of stores (especially convenience stores and supermarkets) where you can park your bike. You can also look for bicycle parking signs (駐輪場).
 
 Also be mindful of where you can and can't ride your bike. There are some sidewalks where you can't ride your bike.
 

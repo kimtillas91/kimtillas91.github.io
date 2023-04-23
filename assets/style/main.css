@@ -185,6 +185,7 @@ footer {
       h1.blog-list-item-header-meta, h2.blog-list-item-header-meta {
         margin:0;
         position: relative;
+        color: #FFCFA3;
       }
 
   .blog-list-item-body {

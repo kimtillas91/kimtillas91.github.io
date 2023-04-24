@@ -9,8 +9,9 @@ adsense: yes
 <div class="blog-list-wrapper">
   <!-- This loops through the paginated posts -->
   {% for post in paginator.posts %}
-    <div class="blog-list-card">
+    <div class="blog-list-card card">
       <div class="blog-list-item">
+        
         <div class="blog-list-item-header">
           <div class="blog-list-item-header-bg" style="background: url({{ site.baseurl  }}/assets/img/{{ post.img }});">
           </div>

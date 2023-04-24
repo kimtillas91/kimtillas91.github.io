@@ -24,10 +24,10 @@
     
         {% if sameTagCount >= minCommonTags %}
                 {% assign hasRelated = 1 %}
-            <div class="related-post-container">
+            <div class="related-post-container card">
                 <a href="{{ site.baseurl }}{{ post.url }}">
                     <div class="related-post">
-                        <div class="related-post-img" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}}) center no-repeat; background-size: cover;"></div>
+                        <div class="related-post-img card-img" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}}) center no-repeat; background-size: cover;"></div>
                         <div class="related-post-title">{{ post.title }}{% if post.subtitle %} - {{ post.subtitle }}{% endif %}{{ commonTags }}</div>
                     </div>
                 </a>
